@@ -1,0 +1,7 @@
+/app/storage
+/app/vendor
+.env
+.DS_Store
+.idea/
+node_modules/
+docker-compose.override.yml
